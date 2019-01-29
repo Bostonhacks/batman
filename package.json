@@ -1,0 +1,8 @@
+{
+  "name": "batman",
+  "description": "Sponsor portal webapp",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
