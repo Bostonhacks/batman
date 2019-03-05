@@ -3,6 +3,8 @@
   "description": "Sponsor portal webapp",
   "version": "0.0.1",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "mongoose": "^5.4.17",
+    "node-cron": "^2.0.3"
   }
 }
